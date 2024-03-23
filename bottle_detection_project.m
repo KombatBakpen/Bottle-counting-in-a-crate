@@ -1,7 +1,7 @@
 %% Developed by Bakpen Kombat 
 %{
 %% Discription 
- Introduction
+ 1. Introduction
 The purpose of this algorithm is to detect and count the number of bottles present in an image of a bottle crate.
 The algorithm utilizes image processing techniques to isolate and identify circular objects representing bottles.
 2 Image Preprocessing Step
