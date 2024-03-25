@@ -1,6 +1,7 @@
 Link to dataset: https://drive.google.com/drive/folders/14s4-DZgKeZunv0BSfogwnphJaVM50i60 
 
-Discription
+Discription:
+
 The purpose of this project is to detect and count the number of bottles present in an image of a bottle crate.
 The algorithm utilizes image processing techniques to isolate and identify circular objects representing bottles
 
